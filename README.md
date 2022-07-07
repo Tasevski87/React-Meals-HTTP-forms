@@ -2,4 +2,4 @@
 
 ## Practicing Http forms with React
 
-## Deployed link:
+## Deployed link: https://tasevski87.github.io/React-Meals-HTTP-forms/
